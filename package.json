@@ -25,6 +25,14 @@
     "README.md",
     "LICENSE"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo008-coder/dsh-quarantine.git"
+  },
+  "homepage": "https://github.com/jojo008-coder/dsh-quarantine#readme",
+  "bugs": {
+    "url": "https://github.com/jojo008-coder/dsh-quarantine/issues"
+  },
   "keywords": [
     "deepseek-harness",
     "dsh-plugin",
